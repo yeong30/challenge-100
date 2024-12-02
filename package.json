@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.0.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.15.0",
@@ -41,10 +42,9 @@
     "vitest": "^2.1.6"
   },
   "browserslist": [
-  "defaults",
-  "last 2 versions",
-  "> 1%",
-  "IE 10"
-]
-
+    "defaults",
+    "last 2 versions",
+    "> 1%",
+    "IE 10"
+  ]
 }
